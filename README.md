@@ -12,13 +12,6 @@
 ##  About Me
 - Currently pursuing my Btech Degree at PES University , Banglore
 
-
-##  GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAshyapk07&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="KAshyapk07's GitHub Stats" width="49%" />
-</p>
-
-
 ##  Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/kashyap-k-6714152b7/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:kashyapk1305@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
