@@ -44,9 +44,6 @@ I enjoy turning ideas into working ML systems through hands-on experimentation a
   <a href="mailto:kashyapk1305@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
   </a>
-  <a href="https://medium.com/@kashyapkumar1234567890" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Medium" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
   <a href="https://instagram.com/kashyap._.k" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 8px;"/>
   </a>
