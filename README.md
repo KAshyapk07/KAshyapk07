@@ -8,8 +8,6 @@
 I’m a Computer Science undergraduate focused on Machine Learning and Deep Learning, interested in designing intelligent systems and building projects that deliver real-world impact.
 I enjoy turning ideas into working ML systems through hands-on experimentation and engineering.
 
-Check out my portfolio here: [Visit Portfolio](https://kashyapk.in/)
-
 🔭 I’m currently working on OrbixAI – Turning intent into intelligent action  
 👯 I’m looking to collaborate on Applied Machine Learning, Deep Learning research and projects  
 🌱 I’m currently learning Advanced Deep Learning, Transformers, and model fine-tuning  
